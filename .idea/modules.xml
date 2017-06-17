@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.trial-n-error.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.trial-n-error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.trial-n-error_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.trial-n-error_main.iml" group="kotlin.trial-n-error" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.trial-n-error_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.trial-n-error_test.iml" group="kotlin.trial-n-error" />
+    </modules>
+  </component>
+</project>
